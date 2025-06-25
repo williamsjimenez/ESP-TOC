@@ -1,7 +1,7 @@
 {
   "name": "esp-toc",
   "version": "0.1.0",
-  "homepage": "https://TU-USUARIO.github.io/ESP-TOC",
+  "homepage": "https://williamsjimenez.github.io/ESP-TOC",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
